@@ -1,2 +1,7 @@
 # tampermonkey-scripts
-scripts for the tampermonkey extention
+#
+For the tampermonkey extention
+#
+Written in Javascript
+#
+Not created by me
